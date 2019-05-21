@@ -1,5 +1,7 @@
 ## W4D2 - SQL From a Node JS App
 
+### [REPO](https://github.com/vasiliy-klimkin/w4d2)
+
 ### Review (Let's code Toghether!)
 
 Quick Review about SQL from yesterday. We used the `schema.sql` file to run through some basic queries.
@@ -30,7 +32,7 @@ For all of yesterday you have been running alot of SQL inside the browser and in
 
 We will be using this package for the lecture to connect to the db.
 
-(Documentation Link)[https://node-postgres.com/]
+[Documentation Link](https://node-postgres.com/)
 
 
 ## Basic Connection
@@ -90,7 +92,7 @@ let say part of your query is
 
 ## References
 
-(Error First Callbacks)[http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/]
+[Error First Callbacks](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/)
 
 
 Cheers
